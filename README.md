@@ -3,6 +3,7 @@
 This project analyzes airline passenger satisfaction using **data mining**, **machine learning**, and **optimization techniques**.  
 It includes a complete pipeline from **data cleaning** and **feature engineering** to **predictive modeling**, **visual analytics**, and **budget-based satisfaction optimization**.
 
+Dataset - [Airline Customer Satisfaction](https://www.kaggle.com/datasets/raminhuseyn/airline-customer-satisfaction)
 ---
 
 ## 🚀 Project Overview
